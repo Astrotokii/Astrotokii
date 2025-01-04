@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Astrotokii
 - 👀 I’m interested in networking and linux
-- 🌱 I’m currently learning CCNA 
+- 🌱 I’m currently CCNA certified 
 - 💞️ I’m looking to collaborate on netlab labs
 - 📫 How to reach me comments
 - 😄 Pronouns: He/Him
