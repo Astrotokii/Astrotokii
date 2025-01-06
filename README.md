@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on netlab labs
 - 📫 How to reach me comments
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am legally blind and half deaf XP
+- ⚡ Fun fact: I am legally blind and half deaf 
 
 <!---
 Astrotokii/Astrotokii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
